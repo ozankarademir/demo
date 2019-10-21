@@ -1,5 +1,5 @@
 # demo
-Projede CUCUMBER kullanılmıştır.
+Projede CUCUMBER framework'u kullanılmıştır.
 chrome driver version 77 de çalışır.
 Eğer MAC pc de çalıştırılacaksa; 
 Base.java classında ->
